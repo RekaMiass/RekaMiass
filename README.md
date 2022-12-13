@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">Frontend Developer from Russia</h3>
 
-- 🌱 I’m currently learning **React** and **Redux**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
