@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">Frontend Developer from Russia</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 👀 I’m currently working as a **Frontend React Developer**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
-
-- 🤝 I’m looking for a job as **Frontend Developer**
 
 - 👨‍💻 All of my projects are available at [github.com/RekaMiass](https://github.com/RekaMiass)
 
