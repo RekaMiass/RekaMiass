@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">Frontend Developer from Russia</h3>
+<h1>Hi there👋</h1>
 
-- 👀 I’m currently working as a **Frontend React Developer**
+- 💁‍♀️ My name is Maria
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 🙌 I create cool things by coding
+
+- 👀 I’m currently working as a **Frontend Developer (React)**
+
+- 💃 I'm also known as a crazy dancer and music fan
 
 - 👨‍💻 All of my projects are available at [github.com/RekaMiass](https://github.com/RekaMiass)
 
